@@ -20,7 +20,7 @@ and Persian (Jalali/Shamsi) dates.
 </repositories>
 
 <dependency>
-  <groupId>com.github.YOUR_USERNAME</groupId>
+  <groupId>com.github.alirezarzghi</groupId>
   <artifactId>persian-date-converter</artifactId>
   <version>v1.0.0</version>
 </dependency>
